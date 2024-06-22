@@ -1,5 +1,5 @@
 # Apenas vendo como as coisas funcionam por aqui
-- Não vai para produção, mas se quiser ver rodando vou deixar o link. [Online](https://tnastro.netlify.app/).
+- Não vai para produção, mas se quiser ver rodando vou deixar o link. [Online]target="_blank"(https://tnastro.netlify.app/).
 
 
 
